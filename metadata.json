@@ -1,0 +1,6 @@
+{
+  "name": "Space Fighter",
+  "description": "太空战机：高画质 HTML5 Canvas 射击游戏。支持多款敌人、道具系统、关卡难度升级、成就解锁与玻璃态炫酷 UI。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
